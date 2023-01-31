@@ -118,15 +118,15 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-col: "#696969"
+navbar-text-col: "#B0E0E6"
+navbar-border-col: "#696969"
 page-col: "#708090"
-text-col: "#008080"
+text-col: "#B9F2FF"
 link-col: "#008AFF"
 hover-col: "#9370DB"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#696969"
+footer-text-col: "#B0E0E6"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
@@ -251,14 +251,6 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
