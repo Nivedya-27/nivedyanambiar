@@ -119,14 +119,14 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#696969"
-navbar-text-col: "#B0E0E6"
+navbar-text-col: "#40E0D0"
 navbar-border-col: "#696969"
-page-col: "#708090"
-text-col: "#B9F2FF"
+page-col: "#A9A9A9"
+text-col: "#40E0D0"
 link-col: "#008AFF"
 hover-col: "#9370DB"
 footer-col: "#696969"
-footer-text-col: "#B0E0E6"
+footer-text-col: "#40E0D0"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
@@ -259,6 +259,7 @@ defaults:
 
 # Exclude these files from production site
 exclude:
+  - posts
   - CHANGELOG.md
   - CNAME
   - Gemfile
