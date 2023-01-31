@@ -259,7 +259,7 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - posts
+  - feed.xml
   - CHANGELOG.md
   - CNAME
   - Gemfile
