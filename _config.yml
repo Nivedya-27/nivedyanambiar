@@ -122,7 +122,7 @@ navbar-col: "#696969"
 navbar-text-col: "#88D8C0"
 navbar-border-col: "#696969"
 page-col: "#A9A9A9"
-text-col: "#88D8C0"
+text-col: "#43B3AE"
 link-col: "#008AFF"
 hover-col: "#9370DB"
 footer-col: "#696969"
@@ -259,7 +259,6 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - feed.xml
   - CHANGELOG.md
   - CNAME
   - Gemfile
