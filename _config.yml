@@ -22,8 +22,7 @@ author: Nivedya Nambiar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - CV: "assets/CV_nivedya_nambiar.pdf"
 
 ################
 # --- Logo --- #
